@@ -32,7 +32,6 @@ namespace WebAppFinal.Abstraction
                     else 
                     {
                         throw new Exception("Ошибка сравнения");
-
                     }
                 }
 
